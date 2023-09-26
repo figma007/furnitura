@@ -1,7 +1,7 @@
 {
   "furnitura": [
     {
-      "img": "imgs/new-one.png",
+      "img": "https://s3-alpha-sig.figma.com/img/a2ef/009a/842fec031ef0c247df24214e05b47e70?Expires=1696809600&Signature=UDx4hcSXOaYSRAQBw8AF2ZTbB8hhIudtWQQwcbVlHggiyNTd9a8EJ3KD9x6hRz1bNFx6SIQ3xFJ6cSTmeV-P~QiI3QQrHDcwswgwxSWWa9g-a-nQ3acIuHefZwoY952DY7eNtWXlCx5~nSFodPIMfZ-tXkBzmg-G5fayIv2YBS5YDmQSDGemO~dteLd45WKS7eQwk5TFsFu3Xrr3e3SNW0g0bqqRUKVZ8OKaxigysU60-ZouwJmFjckFE9OShiJkLyDBtMsF5OA1Q1k920ZUoBPGBgYPrxpYPWDR0JvJi1fsnaWWw4uj9Pk5KQux1dv3kMs1rFWIuPDl03vguXQRPg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
       "title": "The Dandy chair",
       "price": "£250",
       "id": 1
